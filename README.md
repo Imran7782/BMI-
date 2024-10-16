@@ -3,11 +3,11 @@
 
 ![Android Emulator - Pixel_8_API_30_5554 10_16_2024 9_39_54 PM](https://github.com/user-attachments/assets/5cf18a47-0e8e-4c45-bee6-b3af53b9d298)
 
-A new Flutter project.
+This is created usinfg Flutter
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This a Simple BMI Calculator Mke your own condions too calculate the bmi .
 
 A few resources to get you started if this is your first Flutter project:
 
