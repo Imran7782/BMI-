@@ -1,4 +1,7 @@
 # bmiapp
+![Android Emulator - Pixel_8_API_30_5554 10_16_2024 9_39_34 PM](https://github.com/user-attachments/assets/b5f64728-2ff8-482c-a516-81ab9e890fd5)
+
+![Android Emulator - Pixel_8_API_30_5554 10_16_2024 9_39_54 PM](https://github.com/user-attachments/assets/5cf18a47-0e8e-4c45-bee6-b3af53b9d298)
 
 A new Flutter project.
 
